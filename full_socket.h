@@ -33,6 +33,4 @@
 
 #include <net/if.h>
 
-#include <strings.h>
-
 #endif
